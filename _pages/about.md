@@ -70,15 +70,6 @@ Heng Wang, **Tan Yue**, Xiang Ye, Zihang He, Bohan Li, Yong Li
 - ***China Postdoctoral Science Foundation***. <br>Research and Applications of Multimodal Lightweight Scientific Reasoning with General-Specialized Learning Paradigm. (￥80K, 2025.07-2027.06, PI)
 - ***Key Research and Development Project of Industry–University Collaboration***. <br>Reinforcement Learning for Multimodal Complex Reasoning. (￥1.03M, 2025.05-2026.04, PI)
 
-
-# 💬 Academic Service
-<span class='anchor' id='-academic-service'></span>
-
-- ***Conference Senior Area Chair (SAC)***: LREC 2026.
-- ***Conference Program Committee Member***: NeurIPS, CVPR, ACMMM, AAAI, ACL, KDD, COLING, EMNLP, ECCV, IJCAI, etc.
-- ***Top-tier Journals Reviewer***: Information Fusion, IEEE Transactions on Affective Computing, Knowledge-Based Systems, etc.
-
-
 # 🏆 Selected Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -91,3 +82,38 @@ Heng Wang, **Tan Yue**, Xiang Ye, Zihang He, Bohan Li, Yong Li
 - *2021* The 7th China Internet + National College Students Innovation and Entrepreneurship Competition. Second prize.
 - *2020* The 6th China Internet + National College Students Innovation and Entrepreneurship Competition. Third prize.
 - *2019* The 2nd AIIA Cup National Artificial Intelligence Competition. <span style="color:red">National Championship</span><br>
+
+# 💬 Academic Service
+<span class='anchor' id='-academic-service'></span>
+
+- ***Conference Senior Area Chair (SAC)***: LREC 2026.
+- ***Conference Program Committee Member***: NeurIPS, CVPR, ACMMM, AAAI, ACL, KDD, COLING, EMNLP, ECCV, IJCAI, etc.
+- ***Top-tier Journals Reviewer***: Information Fusion, IEEE Transactions on Affective Computing, Knowledge-Based Systems, etc.
+
+# 📖 Patents
+<span class='anchor' id='-patents'></span>
+
+- A Method and System for Question Answering Task Evaluation Based on a Mixture-of-Experts Architecture.<br>
+(一种基于混合专家结构的问答任务评估方法及系统)<br>
+Chinese Invention Patent, 2026, ZL202510833775.5<br>
+Dongyan Zhao, **Tan Yue**, Zilong Song, Xuzhao Shi
+
+- A Multimodal Fine-Grained Paper Classification Method and System by Regularization Ensemble Learning.<br>
+(基于正则化集成学习的多模态细粒度论文分类方法和系统)<br>
+Chinese Invention Patent, 2024, ZL202310834148.4<br>
+Zonghai Hu, **Tan Yue**, Yuanyang Yang, Yuan Jiang, Zijiao Fan, Xuzhao Shi, Jiedong Qin
+
+- A method and device for fine-grained multi-label annotation of paper by pre-trained encoder.<br>
+*(基于预训练编码器的论文细粒度化多标签标注方法及装置)*<br>
+Chinese Invention Patent, 2023, ZL202211198214.5<br>
+Zonghai Hu, **Tan Yue**, Jiedong Qin, Xuzhao Shi, Zijiao Fan, Yuanyang Yang, Yuan Jiang
+
+- A method and device for fine-grained paper classification by multimodal hierarchical fusion network<br>
+(基于多模态分层融合网络的细粒度化论文分类方法及装置)<br>
+Chinese Invention Patent, 2022, ZL202111567384.1<br>
+Zonghai Hu, **Tan Yue**, Jiedong Qin, Xuzhao Shi, Zijiao Fan
+
+- An intelligent analysis method and device for insurance document.<br>
+(保险行业文档智能化解析方法和装置)<br>
+Chinese Invention Patent, 2021, ZL202011621201.5<br>
+**Tan Yue**, Zonghai Hu
