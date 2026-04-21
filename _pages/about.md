@@ -25,6 +25,8 @@ My research interests include <b>large language model</b>, <b>multimodal post-tr
 
 
 # 📝 Selected Publications 
+<span class='anchor' id='-selected-publications'></span>
+
 ✉: corresponding author
 #### 🧑‍ Benchmark Dataset and Evaluation
 - ``ACL 2026 (Findings)``[Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation] <span style="color:red">[CCF-A]</span><br>
@@ -62,18 +64,23 @@ Heng Wang, **Tan Yue**, Xiang Ye, Zihang He, Bohan Li, Yong Li
 
 
 # 💻 Academic Projects
+<span class='anchor' id='-academic-projects'></span>
+
 - ***National Natural Science Foundation of China Young Scientists Fund (C)***. <br>Research on Lightweight Scientific Reasoning by Multimodal Learning. (￥300K, 2026.01-2028.12, PI)
 - ***China Postdoctoral Science Foundation***. <br>Research and Applications of Multimodal Lightweight Scientific Reasoning with General-Specialized Learning Paradigm. (￥80K, 2025.07-2027.06, PI)
 - ***Key Research and Development Project of Industry–University Collaboration***. <br>Reinforcement Learning for Multimodal Complex Reasoning. (￥1.03M, 2025.05-2026.04, PI)
 
 
 # 💬 Academic Service
+<span class='anchor' id='-academic-service'></span>
+
 - ***Conference Senior Area Chair (SAC)***: LREC 2026.
 - ***Conference Program Committee Member***: NeurIPS, CVPR, ACMMM, AAAI, ACL, KDD, COLING, EMNLP, ECCV, IJCAI, etc.
 - ***Top-tier Journals Reviewer***: Information Fusion, IEEE Transactions on Affective Computing, Knowledge-Based Systems, etc.
 
 
 # 🏆 Selected Honors and Awards
+<span class='anchor' id='-honors-and-awards'></span>
 
 - <span style="color:red">*2025* Peking University Outstanding Postdoctoral Fellow Award. (Top 5%)</span><br>
 - <span style="color:red">*2024* Peking University Boya Postdoctoral Fellowship. </span><br>
