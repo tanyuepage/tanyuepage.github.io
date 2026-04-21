@@ -17,42 +17,70 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a associate researcher with the Wangxuan Institute of Computer Technology, Peking University, and work with Prof. <a href="https://www.wict.pku.edu.cn/zhaodongyan/en/" target="_blank">Dongyan Zhao</a>. I received my PhD through the joint program between the Nanyang Technological University and Beijing University of Posts and Telecommunications, advised by Prof. Zonghai Hu and Prof. <a href="https://scholar.google.com.hk/citations?user=ilSYpW0AAAAJ&hl=zh-CN&oi=ao" target="_blank">Erik Cambria</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include <b>large language model</b>, <b>multimodal post-training & agent</b>, <b>scientific reasoning</b>, and <b>model efficiency</b>. 
+
+🔥 I am seeking self-motivated students to collaborate on topics in LLM-related research. If you’re interested in my research directions, please feel free to reach out.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Selected Publications 
+✉: corresponding author
+#### 🧑‍ Benchmark Dataset and Evaluation
+- ``ACL 2026 (Findings)``[Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation] <span style="color:red">[CCF-A]</span><br>
+Qiong Wu, **Tan Yue**✉, Jianxin Liang, Zhen Li, Kai He, Shuai Zhao, Dongyan Zhao✉
+- ``ACL 2025``[QAEval: Mixture of Evaluators for Question-Answering Task Evaluation](https://aclanthology.org/2025.acl-long.716/) <span style="color:red">[CCF-A]</span><br>
+**Tan Yue**, Rui Mao, Xuzhao Shi, Shuo Zhan, Zuhao Yang, Dongyan Zhao
+- ``ACMMM 2025``[AnaFig: A Human-Aligned Dataset for Scientific Figure Analysis](https://dl.acm.org/doi/abs/10.1145/3746027.3758226) <span style="color:red">[CCF-A]</span><br>
+**Tan Yue**, Xuzhao Shi, Rui Mao, Zilong Song, Zonghai Hu, Dongyan Zhao
+- ``EMNLP 2025``[F2TEval: Human-Aligned Multi-Dimensional Evaluation for Figure-to-Text Task](https://aclanthology.org/2025.emnlp-main.195/) <span style="color:red">[CCF-B]</span><br>
+**Tan Yue**, Rui Mao, Zilong Song, Zonghai Hu, Dongyan Zhao
+- ``COLING 2024``[SarcNet: A multilingual multimodal sarcasm detection dataset](https://aclanthology.org/2024.lrec-main.1248/) <span style="color:red">[CCF-B, Oral]</span><br>
+**Tan Yue**, Xuzhao Shi, Rui Mao, Zonghai Hu, Erik Cambria
 
-# 📝 Publications 
+#### 🧑‍ Multimodal Post-Training & Agent
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ``IEEE Transactions on Affective Computing (2026)``[InterARM: Interpretable Affective Reasoning Model for Multimodal Sarcasm Detection](https://aclanthology.org/2025.acl-long.716/) <span style="color:red">[CCF-B, SCI-Q1]</span><br>
+**Tan Yue**, Rui Mao, Xuzhao Shi, Erik Cambria
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- ``CVPR 2026``[SVAgent: Storyline-guided Long Video Understanding via Cross-modal Multi-agent Collaboration](https://arxiv.org/abs/2604.05079) <span style="color:red">[CCF-A]</span><br>
+Zhongyu Yang, Zuhao Yang, Shuo Zhan, **Tan Yue**, Wei Pang, Yingfang Yuan
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- ``Information Fusion (2023)``[KnowleNet: Knowledge fusion network for multimodal sarcasm detection](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002373) <span style="color:red">[CAAI-A, SCI-Q1]</span><br>
+**Tan Yue**, Rui Mao, Heng Wang, Zonghai Hu, Erik Cambria
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- ``ICLR 2023``[Revisit Finetuning strategy for Few-Shot Learning to Transfer the Emdeddings](https://openreview.net/forum?id=tXc-riXhmx) <span style="color:red">[CCF-A]</span><br>
+Heng Wang, **Tan Yue**, Xiang Ye, Zihang He, Bohan Li, Yong Li
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#### 🧑‍ Model Efficiency
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ``AAAI 2026``[MARS: Multimodal Adaptive Reasoning Model for Avoiding Overthinking](https://ojs.aaai.org/index.php/AAAI/article/view/40753) <span style="color:red">[CCF-A]</span><br>
+**Tan Yue**, Qiong Wu, Dongyan Zhao
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ``WWW 2026``[We May Not Need Much Visual Encoding of Web Data for Question Answering](https://dl.acm.org/doi/abs/10.1145/3774904.3792879) <span style="color:red">[CCF-A]</span><br>
+**Tan Yue**, Qiong Wu, Dongyan Zhao
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Projects
+- ***National Natural Science Foundation of China Young Scientists Fund (C)***. <br>Research on Lightweight Scientific Reasoning by Multimodal Learning. (￥300K, 2026.01-2028.12, PI)
+- ***China Postdoctoral Science Foundation***. <br>Research and Applications of Multimodal Lightweight Scientific Reasoning with General-Specialized Learning Paradigm. (￥80K, 2025.07-2027.06, PI)
+- ***Key Research and Development Project of Industry–University Collaboration***. <br>Reinforcement Learning for Multimodal Complex Reasoning. (￥1.03M, 2025.05-2026.04, PI)
+
+
+# 💬 Academic Service
+- ***Conference Senior Area Chair (SAC)***: LREC 2026.
+- ***Conference Program Committee Member***: NeurIPS, CVPR, ACMMM, AAAI, ACL, KDD, COLING, EMNLP, ECCV, IJCAI, etc.
+- ***Top-tier Journals Reviewer***: Information Fusion, IEEE Transactions on Affective Computing, Knowledge-Based Systems, etc.
+
+
+# 🏆 Selected Honors and Awards
+
+- <span style="color:red">*2025* Peking University Outstanding Postdoctoral Fellow Award. (Top 5%)</span><br>
+- <span style="color:red">*2024* Peking University Boya Postdoctoral Fellowship. </span><br>
+- *2024* Beijing Outstanding Graduate (PhD). 
+- *2023* National Scholarship (PhD). 
+- *2022* The 8th China Internet + National College Students Innovation and Entrepreneurship Competition. Third prize.
+- *2022* The 8th China Internet + National College Students Innovation and Entrepreneurship Competition. Third prize.
+- *2021* The 7th China Internet + National College Students Innovation and Entrepreneurship Competition. Second prize.
+- *2020* The 6th China Internet + National College Students Innovation and Entrepreneurship Competition. Third prize.
+- *2019* The 2nd AIIA Cup National Artificial Intelligence Competition. <span style="color:red">National Championship</span><br>
